@@ -1,0 +1,12 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="1149.7331040000022">
+<testsuite name="handling_multiple_tabs.spec.js" timestamp="2026-06-15T10:09:23.311Z" hostname="" tests="1" failures="0" skipped="0" time="1145.659" errors="0">
+<testcase name="handling_tabs" classname="handling_multiple_tabs.spec.js" time="1145.659">
+<system-out>
+<![CDATA[https://www.pavantestingtools.com/
+
+[[ATTACHMENT|test-results\handling_multiple_tabs-handling-tabs\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
